@@ -1,0 +1,18 @@
+{
+    "name": "scorder/demo",
+    "description": "composertest",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "require-dev": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dazhi123",
+            "email": "1741675499@qq.com"
+        }
+    ]
+}
