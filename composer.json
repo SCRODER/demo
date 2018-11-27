@@ -1,18 +1,14 @@
 {
-    "name": "scorder/demo",
-    "description": "composertest",
+    "name": "chengz0109/demo",
+    "description": "test",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
-    "require-dev": {
-        "houdunwang/hdphp": "*"
-    },
     "license": "MIT",
     "authors": [
         {
             "name": "dazhi123",
             "email": "1741675499@qq.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
